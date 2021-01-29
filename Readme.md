@@ -41,5 +41,17 @@ $ npm i
 $ npm run dev
 # O servidor irar inicar na porta - 3000 - acesse <http://localhost:3000>
 ```
+
+### Rotas/Endpoints
+```bash
+# Listar as oportunidades, fitrando por dia, total e quantidade
+- [url] - http://localhost:3000/test/api/opportunity/summary
+- [method] - GET
+
+# Listar todas as oportunidades
+- [url] - http://localhost:3000/test/api/opportunity
+- [method] - GET
+```
+
 ### Sobre mim
 - https://nextti.inf.br/) 💻 - Site pessoal com alguns projetos desenvolvidos.
